@@ -59,6 +59,8 @@
       <li>GitHub: <a href="[https://github.com" target="_blank](https://github.com/Gnanashree5)">GitHub Profile</a></li>
     </ul>
   </section>
+ <h2>Acknowledgments</h2>
+  <p>[I would like to thank Dr. Agughasi Victor Ikechukwu sir, Asst. Prof, Dept of Artificial Intelligence, MIT Mysore, Karnataka-India for his guidance and support in creating this portfolio. Thank you for your valuable direction and mentorship!]<br>(https://github.com/Victor-Ikechukwu/)</p>
 
 </body>
 </html>
