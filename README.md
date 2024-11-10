@@ -55,7 +55,7 @@
     <h2>Contact Info</h2>
     <p>If you'd like to get in touch, feel free to reach out through the following channels:</p>
     <ul>
-      <li>Email: gnanashree@example.com</li>
+      <li>Email: gnanashree@gmail.com</li>
       <li>GitHub: <a href="[https://github.com" target="_blank](https://github.com/Gnanashree5)">GitHub Profile</a></li>
     </ul>
   </section>
