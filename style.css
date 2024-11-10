@@ -567,8 +567,8 @@ p {
 	}
 	/* End Hero */
 
-	/* Services Section */
-	#services .service-bottom .service-item {
+	/* interests Section */
+	#interests .interests-bottom .interests-item {
 		flex-basis: 45%;
 		margin: 2.5%;
 	}
@@ -680,7 +680,7 @@ p {
 	}
 	/* End header */
 
-	#services .service-bottom .service-item {
+	#interests .interests-bottom .service-item {
 		flex-basis: 22%;
 		margin: 1.5%;
 	}
